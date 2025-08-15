@@ -20,39 +20,39 @@ This project consists of a **backend** in Python (FastAPI) and a **frontend** in
 ## ⚙️ Backend Setup
 
 1. Install dependencies:
-   \`\`\`bash
+   ```sh
    pip install -r requirements.txt
-   \`\`\`
+   ```
 
 2. Start the server in /backend:
-   \`\`\`bash
+   ```sh
    uvicorn app.main:app --reload
-   \`\`\`
+   ```
 
 3. To add new dependencies to \`requirements.txt\`:
-   \`\`\`bash
+   ```sh
    pip freeze > requirements.txt
-   \`\`\`
+   ```
 
 ---
 
 ## 💻 Frontend Setup
 
 1. Install dependencies:
-   \`\`\`bash
+   ```sh
    npm install
-   \`\`\`
+   ```
 
 2. Start the development server in /frontend:
-   \`\`\`bash
+   ```sh
    npm run dev
-   \`\`\`
+   ```
 
 ---
 
 ## 📂 Project Structure
 
-\`\`\`
+```
 project/
 ├── backend/
 │   ├── requirements.txt
@@ -63,7 +63,7 @@ project/
     ├── package.json
     ├── src/
     └── ...
-\`\`\`
+```
 
 ---
 
