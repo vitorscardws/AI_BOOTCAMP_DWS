@@ -53,7 +53,7 @@ This project consists of a **backend** in Python (FastAPI) and a **frontend** in
 ## 📂 Project Structure
 
 ```
-project/
+apps/
 ├── backend/
 │   ├── requirements.txt
 │   └── app/
