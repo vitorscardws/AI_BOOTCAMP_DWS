@@ -1,10 +1,4 @@
 
-# 🚀 Project - Backend & Frontend
-
-This project consists of a **backend** in Python (FastAPI) and a **frontend** in Node.js.
-
----
-
 ## 📌 Requirements
 
 - **Backend**
